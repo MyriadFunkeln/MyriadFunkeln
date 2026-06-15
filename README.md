@@ -108,7 +108,7 @@
     </td>
     <td valign="top" width="39%" style="padding:6px;">
       <img 
-        src="https://github-readme-stats-fast-clone.vercel.app/api/top-langs/?username=MyriadFunkeln&layout=compact&theme=github_dark&hide=jupyter%20notebook,html,css,batchfile" 
+        src="https://github-readme-stats-fast-clone.vercel.app/api/top-langs/?username=MyriadFunkeln&layout=compact&theme=github_dark&hide=jupyter%20notebook,html,css,batchfile&langs_count=12" 
         width="100%" style="width:100%; height:auto;" 
         alt="languages graph"  
       />
