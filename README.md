@@ -99,7 +99,7 @@
 
 <table style="width:100%; border-collapse:separate; border-spacing:12px;">
   <tr>
-    <td valign="top" width="50%" style="padding:6px;">
+    <td valign="center" width="50%" style="padding:6px;">
       <img 
         src="https://github-readme-stats-fast-clone.vercel.app/api?username=MyriadFunkeln&show_icons=true&theme=github_dark" 
         width="100%" style="width:100%; height:auto;" 
