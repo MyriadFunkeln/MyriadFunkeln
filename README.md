@@ -101,14 +101,14 @@
   <tr>
     <td valign="top" width="50%" style="padding:6px;">
       <img 
-        src="https://github-readme-stats-fast.vercel.app/api?username=MyriadFunkeln&show_icons=true&theme=github_dark" 
+        src="https://github-readme-stats-fast-clone.vercel.app/api?username=MyriadFunkeln&show_icons=true&theme=github_dark" 
         width="100%" style="width:100%; height:auto;" 
         alt="stats graph"  
       />
     </td>
     <td valign="top" width="39%" style="padding:6px;">
       <img 
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MyriadFunkeln&layout=compact&theme=github_dark&hide=jupyter%20notebook,html,css,batchfile" 
+        src="https://github-readme-stats-fast-clone.vercel.app/api/top-langs/?username=MyriadFunkeln&layout=compact&theme=github_dark&hide=jupyter%20notebook,html,css,batchfile" 
         width="100%" style="width:100%; height:auto;" 
         alt="languages graph"  
       />
@@ -118,7 +118,7 @@
 <table style="width:100%; border-collapse:separate; border-spacing:12px;">
   <tr>
     <td valign="top" width="100%" style="padding:6px;">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MyriadFunkeln&theme=github_dark" alt="GitHub Streak" style="width:100%; height:auto;" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast-clone.vercel.app/api/streak?username=MyriadFunkeln&theme=github_dark" alt="GitHub Streak" style="width:100%; height:auto;" /></a>
     </td>
   </tr>
 </table>
